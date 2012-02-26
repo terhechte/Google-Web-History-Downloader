@@ -10,8 +10,13 @@ I'm posting this code mostly so that others can fork and fix it.
 
 ## Usage:
 Just run it from the commandline and give it your Google account and your password:
+
+
 ruby ./downloader.rb donaldduck@gmail.com daisy69
 
+
 This script needs the Mechanize Ruby library. Just install it via gem
+
+
 gem install mechanize
 
